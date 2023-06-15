@@ -123,6 +123,5 @@
   "tryAgain": "Try again",
   "unstableConnection": "Connection may be unstable",
   "unsupportedPlan": "Your plan is not supported yet",
-  "waitingForAuthentication": "Waiting for authentication...",
-  "amanda": "Amanda"
+  "waitingForAuthentication": "Waiting for authentication..."
 }
