@@ -9,6 +9,7 @@
     "useOfPersonalInformation": "Flexpa doesn't ever sell your personal information and will only use it with your permission for the purpose you give your consent to. You can delegate and revoke access with exactly the third parties you choose."
   },
   "consentHeader": "{{applicationName}} uses <2>Flexpa</2> to connect your health plan",
+  "consentHeaderNew": "{{applicationName}} uses <2>Flexpa</2> to connect your health plan",
   "continue": "Continue",
   "continueToVerification": "Continue to verification",
   "copied": "Copied",
