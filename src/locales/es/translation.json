@@ -1,7 +1,7 @@
 {
-  "also": "Also:",
-  "automaticallyRedirected": "If you are not automatically redirected to {{applicationName}}, please click Continue below.",
-  "close": "Close",
+  "also": "También:",
+  "automaticallyRedirected": "Si usted no es redirigido automáticamente a {{applicationName}}, por favor haga clic en Continuar abajo.",
+  "close": "Cerrar",
   "consent": {
     "cmsBlueButtonDisclaimer": "This product uses the Blue Button 2.0 APIs but is not endorsed or certified by the Centers for Medicare & Medicaid Services or the U.S. Department of Health and Human Services.",
     "consentCheckboxLabel": "I agree to the Terms of Service and Privacy Policies of both Flexpa and {{applicationName}} as listed above.",
@@ -9,6 +9,7 @@
     "useOfPersonalInformation": "Flexpa doesn't ever sell your personal information and will only use it with your permission for the purpose you give your consent to. You can delegate and revoke access with exactly the third parties you choose."
   },
   "consentHeader": "{{applicationName}} uses <2>Flexpa</2> to connect your health plan",
+  "consentHeaderNew": "{{applicationName}} uses <2>Flexpa</2> to connect your health plan",
   "continue": "Continue",
   "continueToVerification": "Continue to verification",
   "copied": "Copied",
