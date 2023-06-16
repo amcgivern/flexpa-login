@@ -1,0 +1,13 @@
+{
+  "also": "También:",
+  "automaticallyRedirected": "Si usted no es redirigido automáticamente a {{applicationName}}, por favor haga clic en Continuar abajo.",
+  "close": "Cerrar",
+  "continue": "Continuar",
+  "error": "Error",
+  "submit": "Enviando",
+  "success": "Éxito",
+  "tryAgain": "Inténtalo de nuevo",
+  "unstableConnection": "La conexión puede ser inestable",
+  "unsupportedPlan": "Tu plan aún no está soportado",
+  "waitingForAuthentication": "Esperando por la autenticación..."
+}
